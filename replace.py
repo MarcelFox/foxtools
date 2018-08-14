@@ -1,5 +1,10 @@
 #!/usr/bin/python3
 
+###
+# By MarcelFox
+# Usage: python3 replace.py -h
+###
+
 import sys, argparse, shutil, fileinput
 
 
